@@ -1,0 +1,3 @@
+# Software Development for Mobile Platforms
+
+This course addresses the concepts, techniques, and tools required for developing applications within software frameworks for mobile platforms. Topics include the concepts and principles underlying software frameworks, the design and implementation of client-server applications, principles of user experience design for frameworks, the design and implementation of client-server applications, principles of user experience design for mobile applications, and key concepts in reliability, privacy, security and safety critical systems. Practical work will involve the design, implementation and testing of a range of mobile applications.
